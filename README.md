@@ -12,7 +12,7 @@ A simple Python program to test the true file size of hard drives by filling the
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Gabrielhj17/HDD-Size-Tester.git
+    git clone https://github.com/Gabrielhj17/code/HDD-Size-Tester.git
     ```
 
 ## Usage
